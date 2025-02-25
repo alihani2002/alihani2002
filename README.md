@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ali Hani 👋
 
-<!--
-**alihani2002/alihani2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack .NET Developer | React | ASP.NET | SQL Server
 
-Here are some ideas to get you started:
+🔹 Passionate about building scalable web applications  
+🔹 Experienced in Clean Architecture, .NET Core, React, and Blazor  
+🔹 Always learning and exploring new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools:
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats:
+![Ali Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihani2002&show_icons=true&theme=dark)
+
+---
+
+### 📌 Featured Projects:
+🔹 [Safary (Graduation Project)](https://github.com/alihani2002/Safary) – A freelance platform for tour guides with ASP.NET Core & React  
+🔹 [BookApp](https://github.com/alihani2002/BookApp) – An online bookstore with role-based authentication  
+🔹 [Typing Speed Game](https://github.com/alihani2002/write-game) – A web-based typing speed test  
+
+---
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hani-a24332231)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alihani2002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://alyhani-portfolio.vercel.app/)
+
