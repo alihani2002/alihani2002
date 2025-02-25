@@ -15,12 +15,6 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-### 📈 GitHub Stats:
-![Ali Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihani2002&show_icons=true&theme=dark)
-
----
 
 ### 📌 Featured Projects:
 🔹 [Safary (Graduation Project)](https://github.com/alihani2002/Safary) – A freelance platform for tour guides with ASP.NET Core & React  
