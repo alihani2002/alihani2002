@@ -1,4 +1,4 @@
-# ![Ali Hani](https://your-image-url.com) **Ali Hani** 👋  
+# Hi I'm **Ali Hani** 👋  
 
 🚀 **Full-Stack .NET Developer | React | ASP.NET | SQL Server**  
 
