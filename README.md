@@ -4,7 +4,6 @@
 
 📧 **Email:** alyhani2002@gmail.com  
 📞 **Phone:** +201012042912  
-📍 **Location:** El Menofia, Egypt  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hani-a24332231)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alihani2002)  
 
