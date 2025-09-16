@@ -5,6 +5,14 @@
 📧 **Email:** alyhani2002@gmail.com  
 📞 **Phone:** +201012042912  
 
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=alihani2002&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihani2002&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>  
+
+
 ## 🎓 Education  
 **Information Technology Institute (ITI)** – Summer Internship in .NET Development  
 📍 El Menofia, Egypt | **Jul 2023 – Sep 2023**  
@@ -31,17 +39,8 @@ Developed and maintained web applications using **C#, .NET Framework, ASP.NET We
 🎓 **6-Month Internship as a Back-End Developer at CREADEV SOFT**  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hani-a24332231)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alihani2002)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://alyhani-portfolio.vercel.app/)  
-
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=alihani2002&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihani2002&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>  
 
 ---
 
@@ -62,27 +61,17 @@ Developed and maintained web applications using **C#, .NET Framework, ASP.NET We
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 
 ---
 
 ## 💾 Databases & ORM  
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
 ---
 
 ## 💻 Hosting & Cloud  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  
-
 
 ---
 
