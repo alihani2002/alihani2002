@@ -3,7 +3,7 @@
 🎯 **Junior .NET Developer** | Passionate about building scalable, high-performance web applications with clean architecture and modern tech stacks.
 
 📍 Egypt, Al Menofia | 📧 alyhani2002@gmail.com | 📞 +201021551737  
-🔗 [LinkedIn](https://linkedin.com/in/ali-hani-a24332231) | 💻 [GitHub](https://github.com/alihani2002)
+🔗 [LinkedIn](https://linkedin.com/in/ali-hani-a24332231)
 
 ---
 
@@ -93,10 +93,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alihani2002&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihani2002&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=alihani2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alihani2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihani2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=alihani2002&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
