@@ -1,59 +1,111 @@
-# 👋 Hi there, I'm **Ali Hani**
+# 👋 Hi there, I'm **Ali Hani Ali**  
+
+🎯 **Junior .NET Developer** | Passionate about building scalable, high-performance web applications with clean architecture and modern tech stacks.
+
+📍 Egypt, Al Menofia | 📧 alyhani2002@gmail.com | 📞 +201021551737  
+🔗 [LinkedIn](https://linkedin.com/in/ali-hani-a24332231) | 💻 [GitHub](https://github.com/alihani2002)
+
+---
+
+## 📌 Summary
+
+.NET Developer with a strong foundation in software engineering and hands-on experience in **C#**, **ASP.NET Core**, **SQL Server**, and **PostgreSQL**. Skilled in building scalable web applications using modern front-end frameworks and clean architectural patterns. Passionate about writing clean, maintainable code and continuously improving through learning and collaboration.
+
+---
+
+## 💼 Professional Experience
+
+### Full-Stack .NET Developer (Project-Based Experience)  
+*Remote*  
+- Designed and developed **Active Gym**, a full gym & online coaching management system using **ASP.NET Core MVC & Web API** with Clean Architecture and Repository Pattern.  
+- Implemented multi-role system (Manager, Coach, Client, Service) with payment tracking, feature unlocking, and automated notifications.  
+- Developed modules for nutrition, training, body composition (InBody), and progress tracking.  
+- Optimized database performance using **EF Core, LINQ & SQL Server**.  
+- Deployed and maintained live production versions.
+
+### Full-stack Development (Training & Internship)  
+**CREADEV SOFT Company**  
+- Developed web applications using **C#, .NET Framework, and ASP.NET Web MVC**.  
+- Built front-end features with **HTML, CSS, and JavaScript**.  
+- Collaborated in a team to deliver project milestones and integrated third-party APIs.
+
+---
+
+## 🛠️ Technical Skills
+
+| Category           | Technologies                                                                 |
+|--------------------|------------------------------------------------------------------------------|
+| **Languages**      | C#, HTML5, CSS, JavaScript, TypeScript, Python                              |
+| **Frameworks**     | ASP.NET Core, ASP.NET MVC, Blazor, React, Next.js, Angular                  |
+| **Backend**        | EF Core, LINQ, SignalR, Hangfire, ASP.NET Web API                           |
+| **Databases**      | SQL Server, PostgreSQL                                                       |
+| **Frontend**       | Bootstrap, Tailwind CSS, SASS, ReactJS                                      |
+| **Tools & Others** | Git, GitHub, Clean Architecture, Repository Pattern, Dependency Injection   |
+
+---
+
+## 🎓 Education
+
+### **Bachelor of Science in Mathematics and Computer Science**  
+*Faculty of Science, Menofia University*  
+📍 El Menofia, Egypt | *Aug 2020 – Jul 2024*  
+- **GPA:** 3.4 / 4.0
+
+### **Summer Internship in .NET Development**  
+*Information Technology Institute (ITI)*  
+📍 El Menofia, Egypt | *Jul 2023 – Sep 2023*  
+- Developed and maintained web applications using **C#, .NET Framework, ASP.NET Web MVC**.
+
+---
+
+## 📂 Projects
+
+### **Online Coaching Platform**  
+*A full-featured personal coaching platform for coaches and clients.*  
+- Built with **ASP.NET Core MVC + SQL Server**, featuring multi-role system (Coach & Client) with RBAC.  
+- Dynamic subscription management for 1-12 month packages with approval workflows and automated program assignment.  
+- Implemented Clean Architecture, Repository Pattern, and Dependency Injection.  
+- **Tech:** ASP.NET Core, SQL Server, Clean Architecture  
+🔗 [GitHub](https://github.com/alihani2002) | 🔗 [Live Demo](http://example.com)
+
+### **ActiveGym Management System**  
+*A comprehensive gym management platform for training, nutrition, and body tracking.*  
+- Modules for fitness programs, nutrition plans, body transformation, and payment tracking.  
+- Optimized with **EF Core, LINQ, and database normalization**.  
+- UI built with **Bootstrap, Tailwind CSS, and JavaScript**.  
+🔗 [GitHub](https://github.com/alihani2002) | 🔗 [Live Demo](http://example.com)
+
+### **Real-Time Chat Application**  
+*ASP.NET Core • SignalR • Clean Architecture*  
+- Real-time messaging with live status updates (Sent, Delivered, Seen).  
+- Secure authentication using **ASP.NET Core Identity** and admin dashboard for user management.  
+- Background services for session handling and scheduled tasks.  
+🔗 [GitHub](https://github.com/alihani2002) | 🔗 [Live Demo](http://easacc.tryasp.net/)
+
+---
+
+## 📜 Certifications
+
+- ITI Certificate – Summer Training  
+- CREADEV SOFT – Full-Stack .NET Internship Certificate  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <h3>🚀 Junior .NET Developer | Full-Stack Engineer</h3>
-  <p>Software Engineer passionate about building scalable, high-performance web applications using <b>ASP.NET Core</b> and modern architectural patterns.</p>
-
-  <p>
-    <a href="mailto:alyhani2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/ali-hani-a24332231"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/alihani2002"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alihani2002&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihani2002&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 ---
 
-### 💻 Technical Stack
+## 📬 Let's Connect!
 
-| Category | Skills |
-| :--- | :--- |
-| **Back-End** | C#, .NET 10, ASP.NET Core Web API, MVC, SignalR, Hangfire, OOP |
-| **Front-End** | ReactJS, Next.js, Angular, Blazor, TypeScript, JavaScript, Tailwind CSS, SASS |
-| **Database** | SQL Server, PostgreSQL, EF Core, LINQ, Repository & Unit of Work |
-| **Architecture** | Clean Architecture, Onion Architecture, Dependency Injection, JWT Security |
+I'm open to **collaborations, freelance projects, and new opportunities**. Feel free to reach out!  
 
----
+📧 **Email:** alyhani2002@gmail.com  
+📞 **Phone:** +201021551737  
+🔗 **LinkedIn:** [linkedin.com/in/ali-hani-a24332231](https://linkedin.com/in/ali-hani-a24332231)  
+💻 **GitHub:** [github.com/alihani2002](https://github.com/alihani2002)
 
-### 🚀 Featured Projects
-
-#### **[Real-Time Chat Application](http://easacc.tryasp.net/)**
-* [cite_start]**Overview**: Instant messaging platform with live status updates (Sent, Delivered, Seen)[cite: 72].
-* [cite_start]**Architecture**: Built using **Clean Architecture** with Repository & Unit of Work patterns[cite: 73].
-* [cite_start]**Tech**: ASP.NET Core 10, SignalR, Identity, and SQL Server[cite: 72, 74, 78].
-
-#### **Active Gym Management System**
-* [cite_start]**Overview**: Comprehensive gym platform for tracking training, nutrition, and InBody composition[cite: 49, 50, 51].
-* [cite_start]**Features**: Multi-role system (Manager, Coach, Client) with payment tracking and automated notifications[cite: 23, 24].
-* [cite_start]**Tech**: ASP.NET Core MVC, EF Core, and SQL Server[cite: 22, 26].
-
-#### **Safary (Graduation Project)**
-* [cite_start]**Achievement**: Developed with a focus on security and scalability (GPA: 3.8/4.0)[cite: 65].
-* [cite_start]**Tech Stack**: ASP.NET Core API, React Next.js, JWT Security, and Onion Architecture[cite: 66, 68].
-
----
-
-### 💼 Experience & Education
-
-* **Junior .NET Developer** | Project-Based | [cite_start]Developed Active Gym and optimized DB performance[cite: 19, 21, 26].
-* **Full-stack Intern** | CREADEV SOFT | [cite_start]Built web apps using C# and ASP.NET Web MVC[cite: 13, 14, 15].
-* **Summer Intern** | ITI | [cite_start]Trained in .NET Development and maintenance[cite: 33].
-* **B.Sc. Mathematics & CS** | Menofia University | [cite_start]Graduated with a 3.4/4.0 GPA[cite: 32, 35].
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alihani2002&theme=radical&show_icons=true&hide_border=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihani2002&theme=radical&layout=compact&hide_border=true" />
-</div>
