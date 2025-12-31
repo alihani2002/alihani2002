@@ -2,8 +2,7 @@
 
 🎯 **Junior .NET Developer** | Passionate about building scalable, high-performance web applications with clean architecture and modern tech stacks.
 
-📍 Egypt, Al Menofia | 📧 alyhani2002@gmail.com | 📞 +201021551737  
-🔗 [LinkedIn](https://linkedin.com/in/ali-hani-a24332231)
+📍 Egypt, Al Menofia | 📧 alyhani2002@gmail.com | 📞 +201021551737  🔗 [LinkedIn](https://linkedin.com/in/ali-hani-a24332231)
 
 ---
 
